@@ -1,4 +1,4 @@
-# Car Parking Vacancy Detection - Dataset Preparation
+# Dataset Preparation
 
 ## Overview
 This document provides an overview of the dataset preparation process for the car parking vacancy detection system. The steps involved include video format conversion, frame extraction, frame augmentation, and annotation.

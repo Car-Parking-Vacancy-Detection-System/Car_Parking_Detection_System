@@ -136,7 +136,6 @@ class OrganizedFrameExtractor:
             "status": "success"
         }
 
-    # ... rest of the class methods remain the same ...
     def process_all_videos(self, split_videos_dir: str, max_workers: int = 4) -> List[dict]:
         """Process all video segments in the specified directory structure"""
         split_videos_dir = Path(split_videos_dir)

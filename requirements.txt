@@ -1,0 +1,6 @@
+torch
+torchvision
+requests_ntlm
+transformers 
+albumentations 
+opencv-python
